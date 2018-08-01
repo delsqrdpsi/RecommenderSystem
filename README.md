@@ -13,6 +13,6 @@ A Basic Recommender System based of the data for LAST.fm
 ## HOW TO USE:
 
 * Download Repository
-* Run recommender.py
+* Run ''' recommender.py '''
 * Input the user Values
 
